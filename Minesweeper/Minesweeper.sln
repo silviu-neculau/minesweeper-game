@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Minesweeper", "Minesweeper\Minesweeper.vcxproj", "{2F32C97B-9444-4867-AD32-9A79CCC30407}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F32C97B-9444-4867-AD32-9A79CCC30407}.Debug|x64.ActiveCfg = Debug|x64
+		{2F32C97B-9444-4867-AD32-9A79CCC30407}.Debug|x64.Build.0 = Debug|x64
+		{2F32C97B-9444-4867-AD32-9A79CCC30407}.Debug|x86.ActiveCfg = Debug|Win32
+		{2F32C97B-9444-4867-AD32-9A79CCC30407}.Debug|x86.Build.0 = Debug|Win32
+		{2F32C97B-9444-4867-AD32-9A79CCC30407}.Release|x64.ActiveCfg = Release|x64
+		{2F32C97B-9444-4867-AD32-9A79CCC30407}.Release|x64.Build.0 = Release|x64
+		{2F32C97B-9444-4867-AD32-9A79CCC30407}.Release|x86.ActiveCfg = Release|Win32
+		{2F32C97B-9444-4867-AD32-9A79CCC30407}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD0889AF-2CE6-4778-8FE5-652014E4186A}
+	EndGlobalSection
+EndGlobal
